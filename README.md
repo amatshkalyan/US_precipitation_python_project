@@ -24,3 +24,7 @@ To run the dashboard locally, follow these steps:
 ## Contributing
 
 **Contributions are welcome!** If you have any ideas for improvements or feature requests, feel free to open an issue or submit a pull request.
+
+<img width="774" alt="image" src="https://github.com/amatshkalyan/US_precipitation_python_project/assets/149266119/d790b709-c9a6-40d3-904c-86aad4da458c">
+
+
